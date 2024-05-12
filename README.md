@@ -13,3 +13,11 @@
     <li>not yet</li>
   </ul>
 </details>
+
+
+<details>
+  <summary><h3>Useful Sites</h3></summary>
+  <ul>
+    <li><a href="https://dnschecker.org/">DNS Checker</a></li>
+  </ul>
+</details>
