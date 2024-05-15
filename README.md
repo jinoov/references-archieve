@@ -10,7 +10,7 @@
 <details>
   <summary><h3>FrontEnd</h3></summary>
   <ul>
-    <li>not yet</li>
+    <li><a href="https://emewjin.github.io/client-side-graphql/">client side graphql로 어드민 만들기</a></li>
   </ul>
 </details>
 
