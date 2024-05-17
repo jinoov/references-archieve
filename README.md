@@ -11,6 +11,7 @@
   <summary><h3>FrontEnd</h3></summary>
   <ul>
     <li><a href="https://emewjin.github.io/client-side-graphql/">client side graphql로 어드민 만들기</a></li>
+    <li><a href="[https://emewjin.github.io/client-side-graphql/](https://seholee.com/blog/next-js-cache-part-1/)">next.js cache 설명잘된글(국문 준)</a></li>
   </ul>
 </details>
 
@@ -19,8 +20,6 @@
   <summary><h3>Useful Sites</h3></summary>
   <ul>
     <li><a href="https://dnschecker.org/">DNS Checker</a></li>
-  </ul>
-  <ul>
     <li><a href="https://open-apis.dev/">Open APIs</a></li>
   </ul>
 </details>
