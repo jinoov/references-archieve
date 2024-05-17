@@ -12,6 +12,7 @@
   <ul>
     <li><a href="https://emewjin.github.io/client-side-graphql/">client side graphql로 어드민 만들기</a></li>
     <li><a href="https://seholee.com/blog/next-js-cache-part-1/">Next.js cache</a></li>
+    <li><a href="tanstack.com/router/latest">kakao - Next.js 캐싱으로 웹 서버 성능 최적화</a></li>
   </ul>
 </details>
 
