@@ -20,4 +20,7 @@
   <ul>
     <li><a href="https://dnschecker.org/">DNS Checker</a></li>
   </ul>
+  <ul>
+    <li><a href="https://open-apis.dev/">Open APIs</a></li>
+  </ul>
 </details>
