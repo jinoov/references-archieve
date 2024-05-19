@@ -16,11 +16,17 @@
   </ul>
 </details>
 
-
 <details>
   <summary><h3>Useful Sites</h3></summary>
   <ul>
     <li><a href="https://dnschecker.org/">DNS Checker</a></li>
     <li><a href="https://open-apis.dev/">Open APIs</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><h3>Awesome Blogs</h3></summary>
+  <ul>
+    <li><a href="https://ansubin.com/">https://ansubin.com/</a></li>
   </ul>
 </details>
