@@ -25,6 +25,8 @@
     <li><a href="https://dnschecker.org/">DNS Checker</a></li>
     <li><a href="https://open-apis.dev/">Open APIs</a></li>
     <li><a href="https://bonkersworld.net/">Bonkers World</a></li>
+    <li><a href="https://yozm.wishket.com/magazine/">요즘IT</a></li>
+    <li><a href="https://spri.kr/">소프트웨어정책연구소</a></li>
   </ul>
 </details>
 
