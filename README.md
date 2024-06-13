@@ -35,6 +35,7 @@
   <ul>
     <li><a href="https://ansubin.com/">https://ansubin.com/</a></li>
     <li><a href="https://emewjin.github.io/">https://emewjin.github.io/</a></li>
+    <li><a href="https://tecoble.techcourse.co.kr/">https://tecoble.techcourse.co.kr/</a></li>
   </ul>
 </details>
 
