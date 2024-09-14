@@ -48,3 +48,11 @@
     <li><a href="https://www.slideshare.net/SuhyunPark23/kucc-2022-4">코딩 테스트 및 알고리즘 문제해결 공부 방법 (by 박수현님)</a></li>
   </ul>
 </details>
+
+<details>
+  <summary><h3>Insiprations</h3></summary>
+  <ul>
+    <li><a href="https://blog.naver.com/geniant_/220831492093">산업공학과 IT</a></li>
+  </ul>
+</details>
+
