@@ -39,6 +39,7 @@
     <li><a href="https://tecoble.techcourse.co.kr/">https://tecoble.techcourse.co.kr/</a></li>
     <li><a href="https://www.hojunin.com/">https://www.hojunin.com/</a></li>
     <li><a href="https://tech.wonderwall.kr/1">https://tech.wonderwall.kr/1</a></li>
+    <li><a href="https://dev.classmethod.jp/author/lee-byonghun/">https://dev.classmethod.jp/author/lee-byonghun/</a></li>
   </ul>
 </details>
 
